@@ -1,4 +1,4 @@
 # synth-wav.github.io
 
-[Authoritarian Aspirations](the_notes/Authoritarian Aspirations.html)
+[Test Page](the_notes/Test Page)
 
