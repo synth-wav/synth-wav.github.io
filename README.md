@@ -1,3 +1,3 @@
 # synth-wav.github.io
 
-[Test Page](the_notes/Test Page)
+[Test Page](html/Test Page)
