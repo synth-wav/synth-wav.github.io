@@ -19,9 +19,6 @@ Gemfile.lock
 
 # CUSTOM IGNORES
 
-# ignore stupid lib folder that obsidian html exporter generates
-lib/
-
 #ignore Obsidian vault data, any .md source files, and python scripts
 .obsidian
 *.md
