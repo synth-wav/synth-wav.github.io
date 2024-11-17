@@ -17,5 +17,12 @@ _site/
 # Details at https://github.com/github/pages-gem/issues/768
 Gemfile.lock
 
-# ignore stupid lib folder that obsidian generates
+# CUSTOM IGNORES
+
+# ignore stupid lib folder that obsidian html exporter generates
 lib/
+
+#ignore Obsidian vault data, any .md source files, and python scripts
+.obsidian
+*.md
+*.py
